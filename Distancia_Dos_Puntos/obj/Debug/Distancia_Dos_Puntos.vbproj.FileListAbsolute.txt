@@ -1,0 +1,12 @@
+D:\8 semestre\SP2\Distancia_Dos_Puntos\Distancia_Dos_Puntos\bin\Debug\Distancia_Dos_Puntos.exe.config
+D:\8 semestre\SP2\Distancia_Dos_Puntos\Distancia_Dos_Puntos\bin\Debug\Distancia_Dos_Puntos.exe
+D:\8 semestre\SP2\Distancia_Dos_Puntos\Distancia_Dos_Puntos\bin\Debug\Distancia_Dos_Puntos.pdb
+D:\8 semestre\SP2\Distancia_Dos_Puntos\Distancia_Dos_Puntos\bin\Debug\Distancia_Dos_Puntos.xml
+D:\8 semestre\SP2\Distancia_Dos_Puntos\Distancia_Dos_Puntos\obj\Debug\Distancia_Dos_Puntos.vbprojAssemblyReference.cache
+D:\8 semestre\SP2\Distancia_Dos_Puntos\Distancia_Dos_Puntos\obj\Debug\Distancia_Dos_Puntos.FrmPractica1.resources
+D:\8 semestre\SP2\Distancia_Dos_Puntos\Distancia_Dos_Puntos\obj\Debug\Distancia_Dos_Puntos.Resources.resources
+D:\8 semestre\SP2\Distancia_Dos_Puntos\Distancia_Dos_Puntos\obj\Debug\Distancia_Dos_Puntos.vbproj.GenerateResource.cache
+D:\8 semestre\SP2\Distancia_Dos_Puntos\Distancia_Dos_Puntos\obj\Debug\Distancia_Dos_Puntos.vbproj.CoreCompileInputs.cache
+D:\8 semestre\SP2\Distancia_Dos_Puntos\Distancia_Dos_Puntos\obj\Debug\Distancia_Dos_Puntos.exe
+D:\8 semestre\SP2\Distancia_Dos_Puntos\Distancia_Dos_Puntos\obj\Debug\Distancia_Dos_Puntos.xml
+D:\8 semestre\SP2\Distancia_Dos_Puntos\Distancia_Dos_Puntos\obj\Debug\Distancia_Dos_Puntos.pdb
